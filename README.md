@@ -1,1 +1,2 @@
 # CameraSupportedSmartLibraryReservationandControlSystem-BackPY
+patleri düzenlemeyi unutma.
