@@ -1,2 +1,2 @@
 # CameraSupportedSmartLibraryReservationandControlSystem-BackPY
-patleri düzenlemeyi unutma.
+database, çıktı videosunun kaydedileceği konum vb yolları düzenlemeyi unutma.
